@@ -59,3 +59,11 @@
 
 - 代码实现梯度下降和逻辑回归
 - 学习完过拟合问题和正则化
+
+## 2026-07-18 | 学习pytorch
+
+### what I have learned today
+
+- 理解axis压缩的原理与使用
+- 补齐在概率论，线代等数学知识在pytorch的运用和实现
+- 理解pytorch中的tensor这个类的作用
