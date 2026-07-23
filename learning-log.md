@@ -76,3 +76,9 @@
 ## 2026-07-21 | 推荐系统开篇
 - 推荐系统概述和矩阵分解
 - zotero论文管理和obsidient笔记建立
+
+## 2026-07-23 | 矩阵分解和AutoRec
+- 理解矩阵分解核心内容的pytorch实现
+- 自编码器的原理，损失函数
+- 自编码器和矩阵分解的区别和联系
+- 开始读Matrix Factorization Techniques for Recommender Systems
