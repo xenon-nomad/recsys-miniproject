@@ -82,3 +82,9 @@
 - 自编码器的原理，损失函数
 - 自编码器和矩阵分解的区别和联系
 - 开始读Matrix Factorization Techniques for Recommender Systems
+
+## 2026-07-24 | 个性化排名机制
+- 学习个性化排名机制理论原理
+- 学习pairwise两种方法BPR和Hinge的损失函数
+- 代码实现AutoRec
+- 继续读论文
